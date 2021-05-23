@@ -47,7 +47,7 @@ while True:
     if choice == "5":
         full__name = input(
             '\n' + 'Enter full name of contact you want to delete: ')
-        df.delete_contact(directory, )
+        df.delete_contact(directory, full__name)
 
     # Delete all contacts if "6" is entered
     if choice == "6":
