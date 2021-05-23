@@ -18,13 +18,20 @@
     "last_name": "Beck",
     "phone_num": "03111634954",
     "dob": "2003-09-12",
-    "email": "christinax@gmail.com"
+    "email": null
   },
   {
     "first_name": "Noah",
     "last_name": "Richards",
     "phone_num": "02321224954",
-    "dob": "2001-04-06",
+    "dob": null,
     "email": "Noah.richards@gmail.com"
+  },
+  {
+    "first_name": "John",
+    "last_name": "Knight",
+    "phone_num": "03232678084",
+    "dob": null,
+    "email": "j.knight23@gmail.com"
   }
 ]
