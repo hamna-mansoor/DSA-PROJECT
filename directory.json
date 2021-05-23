@@ -1,1 +1,30 @@
-[{"first_name": "John", "last_name": "Doe", "phone_num": "2131321", "dob": null, "email": null}, {"first_name": "Chris", "last_name": "Evans", "phone_num": "3242432", "dob": "2020-12-05", "email": "jkh@sds.csc"}]
+[
+  {
+    "first_name": "John",
+    "last_name": "Doe",
+    "phone_num": "03212626884",
+    "dob": null,
+    "email": null
+  },
+  {
+    "first_name": "Chris",
+    "last_name": "Evans",
+    "phone_num": "03231626954",
+    "dob": "2020-12-04",
+    "email": "chrisevans9@outlook.com"
+  },
+  {
+    "first_name": "Christina",
+    "last_name": "Beck",
+    "phone_num": "03111634954",
+    "dob": "2003-09-12",
+    "email": "christinax@gmail.com"
+  },
+  {
+    "first_name": "Noah",
+    "last_name": "Richards",
+    "phone_num": "02321224954",
+    "dob": "2001-04-06",
+    "email": "Noah.richards@gmail.com"
+  }
+]
