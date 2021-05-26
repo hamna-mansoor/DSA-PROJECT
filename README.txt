@@ -65,4 +65,4 @@ Implemented the following:
 
 - Function delete_contact() which deletes the given contact from the directory.
 
-- Function delete_all() which removes all contacts from the directory
+- Function delete_all() which removes all contacts from the directory.
