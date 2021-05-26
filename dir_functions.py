@@ -131,6 +131,7 @@ def search_by_num():
 
 
 def delete_contact(directory, x):
+    x = x.lower()
     for i in directory:
         if x in (i.full_name).lower():
             print('\n', directory.index(i) + 1, ':', '\n', i, '\n')
