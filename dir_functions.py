@@ -132,13 +132,13 @@ def search_by_num():
 
 def delete_contact(directory, x):
     for i in directory:
-        if x in i.full_name:
+        if x in (i.full_name).lower():
             print('\n', directory.index(i) + 1, ':', '\n', i, '\n')
 
     s = int(input('Enter contact number you want to delete: '))
 
     for i in directory:
-        if x in i.full_name:
+        if x in (i.full_name).lower():
             directory.pop(s - 1)
 
     print('\n', 'Remaining contacts: ' + '\n')
